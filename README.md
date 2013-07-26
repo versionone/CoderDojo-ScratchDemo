@@ -1,6 +1,7 @@
 <h1>Getting Started With Scratch</h1>
 
 <h3>What is Scratch, anyway?</h3>
+
 Scratch is a beginner friendly <b>programming language</b> that allows you to create your own <b>games, music, art, and/or animations</b>.  You can create powerful programs by editing your code directly in a web browser, or, you can download the Scratch editor to your own computer at home.  Either way, the programs you create are shareable with your friends and family.  Show people what you create!
 
 <h3>What can I build with the Scratch programming language?</h3>
@@ -17,12 +18,13 @@ The first thing we'll do is a make a cat dance on the moon.  From there you can 
 
 Your account is created and you can now use your account to create projects, ask for help on the website if you need it, browse projects other people have created, and upload your own creations to share with others.
 
-A copy of the tutorial we will follow first can be [downloaded here](http://scratch.mit.edu/scratchr2/static/__1374511755__//pdfs/help/Getting-Started-Guide-Scratch2.pdf).  
+A copy of the tutorial we will follow first can be [downloaded here](http://scratch.mit.edu/scratchr2/static/__1374511755__//pdfs/help/Getting-Started-Guide-Scratch2.pdf).  However, it's not necessary to do that right now since we will be using a slightly different method of introduction as described below.
 
 <h3>Let's Learn How To Write A Scratch Program</h3>
 
-Let's follow the onscreen tutorial by clicking on the small question mark symbol below the "See Project Page" blue button in the upper right hand side of the screen.  It's small and hard to see but it's there!
+First, let's follow the onscreen tutorial by clicking on the small question mark symbol below the "See Project Page" blue button in the upper right hand side of the screen.  The question mark is small and hard to see but it's there!
 
+Next, click the 'Step-by-step Intro' blue link in the flyout window that opened.  This will take you to the step 1 of our introductory tutorial.
 
 
 
