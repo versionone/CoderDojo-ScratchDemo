@@ -6,20 +6,26 @@ Scratch is a beginner friendly <b>programming language</b> that allows you to cr
 <h3>What can I build with the Scratch programming language?</h3>
 You're really only limited by your imagination.  The purpose today is to get you familiar with the programming language so that you can build anything you want.  We'll start simple by making a cat dance on the moon.  No really, it's simple.  From there, you will be able to start creating anything you want and come up with your own ideas.
 
-Some examples of applications built with the Scratch programming language are as below:
-
-[New Super Mario Brothers](http://scratch.mit.edu/projects/11450324/)
-
-[3D Horse Simulator](http://scratch.mit.edu/projects/11013378/)
-
-[Rainbow Follower](http://scratch.mit.edu/projects/11541467/)
-
-<h3>Let's Start Building Something Already!</h3>
+<h3>Let's Create An Account</h3>
 The first thing we'll do is a make a cat dance on the moon.  From there you can build whatever you want, but, to get started we'll first need to [go here](http://scratch.mit.edu/).
 
-A copy of the tutorial can be [downloaded here](http://scratch.mit.edu/scratchr2/static/__1374511755__//pdfs/help/Getting-Started-Guide-Scratch2.pdf) if you'd like to print it out, but, it's not necessary to do that today.
+1.  Create a new account by going to [http://scratch.mit.edu](http://scratch.mit.edu).  
+2.  Click on the 'Join Scratch' button in the top right corner of the screen.
+2.  Choose a user name & password.  Make a note of this information so you don't forget it.
+3.  Enter your birthday, gender, country and email address.
+4.  Close the next window.
 
-1.  Create a new account
+Your account is created and you can now use your account to create projects, ask for help on the website if you need it, browse projects other people have created, and upload your own creations to share with others.
+
+A copy of the tutorial we will follow first can be [downloaded here](http://scratch.mit.edu/scratchr2/static/__1374511755__//pdfs/help/Getting-Started-Guide-Scratch2.pdf).  
+
+<h3>Let's Learn How To Write A Scratch Program</h3>
+
+Let's follow the onscreen tutorial by clicking on the small question mark symbol below the "See Project Page" blue button in the upper right hand side of the screen.  It's small and hard to see but it's there!
+
+
+
+
 
 
 
