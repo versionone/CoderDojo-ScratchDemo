@@ -5,7 +5,9 @@
 Scratch is a beginner friendly <b>programming language</b> that allows you to create your own <b>games, music, art, and/or animations</b>.  You can create powerful programs by editing your code directly in a web browser, or, you can download the Scratch editor to your own computer at home.  Either way, the programs you create are shareable with your friends and family.  Show people what you create!
 
 <h3>What can I build with the Scratch programming language?</h3>
-You're really only limited by your imagination.  The purpose today is to get you familiar with the programming language so that you can build anything you want.  We'll start simple by making a cat dance on the moon.  No really, it's simple.  From there, you will be able to start creating anything you want and come up with your own ideas.
+You're really only limited by your imagination.  Though, as you become a better programmer, you may find yourself seeking more challenge.  There are plenty of programming languages out there.  Do some research first.  If nothing jumps out that interests you immediatey, try learning JavaScript or C#.  
+
+The purpose today is to get you familiar with the Scratch programming language and the basics of most any programming language so that you can build anything you want.  We'll start simply by making a cat dance on the moon.  No really, it's simple!  From there, you will be able to start creating anything you want and come up with your own ideas.
 
 <h3>Let's Create An Account</h3>
 The first thing we'll do is a make a cat dance on the moon.  From there you can build whatever you want, but, to get started we'll first need to [go here](http://scratch.mit.edu/).
